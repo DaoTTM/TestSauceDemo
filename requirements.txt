@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+pytest
+pytest-html
+beautifulsoup4
+lxml
+requests
+testrail-api
+allure-pytest
+pandas
+openpyxl
+pyyaml
+
